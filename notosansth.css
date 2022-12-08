@@ -1,8 +1,15 @@
 @font-face {
-    font-family: "gothams";
-    src: url('https://cdn.jsdelivr.net/gh/cpx2017/gothamsfont@main/fonts/GothamSSm-Book_Web.woff2') format("woff2");
-    src: url('https://cdn.jsdelivr.net/gh/cpx2017/gothamsfont@main/fonts/GothamSSm-Medium_Web.woff2') format("woff2");
+    font-family: "nototh";
+    src: url('https://cdn.jsdelivr.net/gh/cpx2017/notosansth@main/fonts/NotoSansThai-Black.ttf') format("ttf");
+    src: url('https://cdn.jsdelivr.net/gh/cpx2017/notosansth@main/fonts/NotoSansThai-Bold.ttf') format("ttf");
+    src: url('https://cdn.jsdelivr.net/gh/cpx2017/notosansth@main/fonts/NotoSansThai-ExtraBold.ttf') format("ttf");
+    src: url('https://cdn.jsdelivr.net/gh/cpx2017/notosansth@main/fonts/NotoSansThai-ExtraLight.ttf') format("ttf");
+    src: url('https://cdn.jsdelivr.net/gh/cpx2017/notosansth@main/fonts/NotoSansThai-Light.ttf') format("ttf");
+    src: url('https://cdn.jsdelivr.net/gh/cpx2017/notosansth@main/fonts/NotoSansThai-Medium.ttf') format("ttf");
+    src: url('https://cdn.jsdelivr.net/gh/cpx2017/notosansth@main/fonts/NotoSansThai-Regular.ttf') format("ttf");
+    src: url('https://cdn.jsdelivr.net/gh/cpx2017/notosansth@main/fonts/NotoSansThai-SemiBold.ttf') format("ttf");
+    src: url('https://cdn.jsdelivr.net/gh/cpx2017/notosansth@main/fonts/NotoSansThai-Thin.ttf') format("ttf");
   }
   body {
-    font-family: 'gothams', sans-serif !important;
+    font-family: 'nototh', sans-serif !important;
   }
