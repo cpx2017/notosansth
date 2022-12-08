@@ -1,0 +1,8 @@
+@font-face {
+    font-family: "gothams";
+    src: url('https://cdn.jsdelivr.net/gh/cpx2017/gothamsfont@main/fonts/GothamSSm-Book_Web.woff2') format("woff2");
+    src: url('https://cdn.jsdelivr.net/gh/cpx2017/gothamsfont@main/fonts/GothamSSm-Medium_Web.woff2') format("woff2");
+  }
+  body {
+    font-family: 'gothams', sans-serif !important;
+  }
