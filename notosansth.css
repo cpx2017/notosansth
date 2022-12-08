@@ -4,11 +4,9 @@
     src: url('https://cdn.jsdelivr.net/gh/cpx2017/notosansth@main/fonts/NotoSansThai-Bold.ttf');
     src: url('https://cdn.jsdelivr.net/gh/cpx2017/notosansth@main/fonts/NotoSansThai-ExtraBold.ttf');
     src: url('https://cdn.jsdelivr.net/gh/cpx2017/notosansth@main/fonts/NotoSansThai-ExtraLight.ttf');
-    src: url('https://cdn.jsdelivr.net/gh/cpx2017/notosansth@main/fonts/NotoSansThai-Light.ttf');
     src: url('https://cdn.jsdelivr.net/gh/cpx2017/notosansth@main/fonts/NotoSansThai-Medium.ttf');
     src: url('https://cdn.jsdelivr.net/gh/cpx2017/notosansth@main/fonts/NotoSansThai-Regular.ttf');
     src: url('https://cdn.jsdelivr.net/gh/cpx2017/notosansth@main/fonts/NotoSansThai-SemiBold.ttf');
-    src: url('https://cdn.jsdelivr.net/gh/cpx2017/notosansth@main/fonts/NotoSansThai-Thin.ttf');
   }
   body {
     font-family: 'nototh', sans-serif !important;
